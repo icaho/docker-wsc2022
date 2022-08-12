@@ -1,0 +1,8 @@
+# /etc/ddclient/ddclient.conf
+#
+use=web, web=dynamicdns.park-your-domain.com/getip
+protocol=namecheap
+server=dynamicdns.park-your-domain.com
+login=<domain>
+password=<password from dyndns provider>
+<subdomain>
