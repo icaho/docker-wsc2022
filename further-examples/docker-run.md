@@ -2,7 +2,7 @@
 
     docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
     ~ Options ~
-    [-rm] automatically remove container when closed
+    [--rm] automatically remove container when closed
     [-it] (i) interactive (t) tty
     [-p <port>:<port>] publish a containers ports to the host
     [-P] publish containers exposed ports to random ports on the host
